@@ -267,8 +267,6 @@
                     android:textStyle="bold"
                     android:text="Restaurant"/>
             </LinearLayout>
-
-
         </androidx.cardview.widget.CardView>
 
 
